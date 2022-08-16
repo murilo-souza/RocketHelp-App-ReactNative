@@ -1,6 +1,18 @@
 import React from "react";
-import { VStack } from "native-base";
+import { Input as NativeBaseInput, IInputProps } from "native-base";
 
-export function Input() {
-  return <VStack></VStack>;
+export function Input({ ...rest }: IInputProps) {
+  return (
+    <NativeBaseInput
+      bg="gray.700"
+      h={14}
+      size="md"
+      borderWidth={0}
+      fontSize="md"
+      fontFamily="body"
+      color="white"
+      placeholderTextColor="gray.300"
+      {...rest}
+    />
+  );
 }
