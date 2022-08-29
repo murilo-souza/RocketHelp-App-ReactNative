@@ -24,4 +24,5 @@
  <li>Filter with finished or opened order</li>
 </ul>
 
-
+<h2>Layout</h2>
+<p>To see the complet layout of the application, access the <a href='https://www.figma.com/file/Pfq9TMzM3LcSGKDduPrv7o/Rocket-Help---Ignite-Lab-(Community)?node-id=37%3A6'>Link</a></p>
