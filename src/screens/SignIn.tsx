@@ -3,7 +3,7 @@ import { Envelope, Key } from "phosphor-react-native";
 import { useState } from "react";
 import Logo from "../assets/logo_primary.svg";
 import { Button } from "../components/Button";
-
+import auth from "@react-native-firebase/auth";
 import { Input } from "../components/Input";
 
 export function SignIn() {
