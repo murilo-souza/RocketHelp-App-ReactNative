@@ -15,4 +15,13 @@
  <li><a href="https://rnfirebase.io/">React Native Firebase</a></li>
 </ul>
 
+<h2>Features</h2>
+<ul>
+ <li>Signin with e-mail and password</li>
+ <li>Create new order of service</li>
+ <li>Save in database</li>
+ <li>View the detail of each order</li>
+ <li>Filter with finished or opened order</li>
+</ul>
+
 
