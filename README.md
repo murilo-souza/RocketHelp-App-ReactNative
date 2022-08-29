@@ -8,13 +8,11 @@
 
 <h2>Stack</h2>
 <ul>
- <li><a href="#">Expo</a></li>
- <li><a href="#">Firebase</a></li>
- <li><a href="#">Native Base</a></li>
- <li><a href="#">React Native</a></li>
- <li><a href="#">React Navigation</a></li>
- <li><a href="#"></a></li>
- <li><a href="#"></a></li>
+ <li><a href="https://docs.expo.dev/">Expo</a></li>
+ <li><a href="https://nativebase.io/">Native Base</a></li>
+ <li><a href="https://reactnative.dev/">React Native</a></li>
+ <li><a href="https://reactnavigation.org/">React Navigation</a></li>
+ <li><a href="https://rnfirebase.io/">React Native Firebase</a></li>
 </ul>
 
 
