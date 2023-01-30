@@ -17,10 +17,10 @@
 
 <h2>Features</h2>
 <ul>
- <li>Signin with e-mail and password</li>
- <li>Create new order of service</li>
- <li>Save in database</li>
+<li>Save in database</li>
+<li>Create new order of service</li>
  <li>View the detail of each order</li>
+ <li>Signin with e-mail and password</li> 
  <li>Filter with finished or opened order</li>
 </ul>
 
